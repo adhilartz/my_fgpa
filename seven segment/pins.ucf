@@ -1,0 +1,15 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "sevensegment[7]" LOC = A3;
+NET "sevensegment[6]" LOC = B4;
+NET "sevensegment[5]" LOC = A4;
+NET "sevensegment[4]" LOC = C4;
+NET "sevensegment[3]" LOC = C5;
+NET "sevensegment[2]" LOC = D6;
+NET "sevensegment[1]" LOC = C6;
+NET "sevensegment[0]" LOC = A5;
+NET "clk" LOC = V10;
+NET "enable[2]" LOC = B2;
+NET "enable[1]" LOC = A2;
+NET "enable[0]" LOC = B3;
