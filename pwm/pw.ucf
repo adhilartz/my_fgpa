@@ -1,0 +1,2 @@
+NET "clk"            LOC="P94"  | IOSTANDARD=LVTTL | PERIOD=31.25ns;               # CLK
+NET "pulse"            LOC="P100"  | IOSTANDARD=LVTTL;                                # A011
