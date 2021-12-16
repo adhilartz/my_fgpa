@@ -1,0 +1,9 @@
+NET "clk"            LOC="P94"  | IOSTANDARD=LVTTL | PERIOD=31.25ns;               # CLK
+NET "ramp<7>"            LOC="P100"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<6>"            LOC="P98"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<5>"            LOC="P93"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<4>"            LOC="P88"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<3>"            LOC="P85"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<2>"            LOC="P83"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<1>"            LOC="P81"  | IOSTANDARD=LVTTL;                                # A0
+NET "ramp<0>"            LOC="P79"  | IOSTANDARD=LVTTL;
